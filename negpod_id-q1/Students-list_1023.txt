@@ -1,0 +1,5 @@
+f.abdulazee@alustudent.com,19,fadh
+f.abdulazee@alustudent.com,19,fadh
+t.egbunike@alustudent.com,45,Theodora
+t.egbunike@alustudent.com,67,Theo
+t.egbunike@alustudent.com,57,Dora
