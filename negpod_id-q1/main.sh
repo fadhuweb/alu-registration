@@ -43,7 +43,7 @@ while true; do
     echo "Main Menu"
     echo "1. Create student record"
     echo "2. View all students"
-    echo "3. Delete a student"
+    echo "3. Delete a student(s)"
     echo "4. Update a student record"
     echo "5. Exit"
     read choice
