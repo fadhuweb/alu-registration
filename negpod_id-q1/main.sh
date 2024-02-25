@@ -12,7 +12,7 @@ create_student_record() {
     echo "Student record created successfully!"
 }
 
-# Function to view all students saved in the file
+# Function to display all students saved in the file
 view_all_students() {
     echo "List of all students:"
     cat Students-list_1023.txt
